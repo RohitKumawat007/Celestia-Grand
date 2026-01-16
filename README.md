@@ -2,7 +2,8 @@
 
 **Hotel Booking Website** built with **HTML5**, **CSS3**, and **JavaScript**. Modern luxury hotel site with room booking, gallery, and contact features. [file:24]
 
-![Uploading image.png…]()
+<img width="1918" height="1078" alt="image" src="![Uploading image.png…]()
+" />
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
